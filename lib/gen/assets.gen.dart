@@ -28,6 +28,9 @@ class $AssetsImagesGen {
   AssetGenImage get carLogoNissan =>
       const AssetGenImage('assets/images/car-logo-nissan.jpg');
 
+  /// File path: assets/images/car.png
+  AssetGenImage get car => const AssetGenImage('assets/images/car.png');
+
   /// File path: assets/images/citroen.png
   AssetGenImage get citroen => const AssetGenImage('assets/images/citroen.png');
 
@@ -60,10 +63,6 @@ class $AssetsImagesGen {
   AssetGenImage get voiture3dFondSimple =>
       const AssetGenImage('assets/images/voiture-3d-fond-simple.jpg');
 
-  /// File path: assets/images/voiture-devant-empire-state-building.jpg
-  AssetGenImage get voitureDevantEmpireStateBuilding => const AssetGenImage(
-      'assets/images/voiture-devant-empire-state-building.jpg');
-
   /// File path: assets/images/vue-voiture-3d-1.jpg
   AssetGenImage get vueVoiture3d1 =>
       const AssetGenImage('assets/images/vue-voiture-3d-1.jpg');
@@ -82,6 +81,7 @@ class $AssetsImagesGen {
         audiLogo,
         car15069221280,
         carLogoNissan,
+        car,
         citroen,
         ferrariLogoIcon145829,
         mercedesJpg,
@@ -90,7 +90,6 @@ class $AssetsImagesGen {
         teslaLogoIcon181279,
         transparentHondaLogoIcon,
         voiture3dFondSimple,
-        voitureDevantEmpireStateBuilding,
         vueVoiture3d1,
         vueVoiture3d,
         webDeveloper

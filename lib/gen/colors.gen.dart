@@ -19,6 +19,9 @@ class MyColorName {
   /// Color: #79797B
   static const Color darkgray = Color(0xFF79797B);
 
+  /// Color: #FAF0E6
+  static const Color linen = Color(0xFFFAF0E6);
+
   /// Color: #13688a
   static const Color teal = Color(0xFF13688A);
 
