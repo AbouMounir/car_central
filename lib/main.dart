@@ -1,4 +1,5 @@
 import 'package:car_rental/src/core/constants.dart';
+import 'package:car_rental/src/features/car_details/presentation/pages/car_details.dart';
 import 'package:car_rental/src/features/choice_car/presentation/pages/choice_car.dart';
 import 'package:car_rental/src/features/on_boarding/on_boarding_page.dart';
 import 'package:flutter/material.dart';
@@ -22,6 +23,12 @@ final GoRouter _router = GoRouter(
           path: PageRoutes.choiseCar,
           builder: (BuildContext context, GoRouterState state) {
             return const ChoiceCar();
+          },
+        ),
+        GoRoute(
+          path: PageRoutes.carDetails,
+          builder: (BuildContext context, GoRouterState state) {
+            return const CarDetails();
           },
         ),
       ],

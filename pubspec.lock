@@ -137,6 +137,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.1.1"
+  carousel_slider:
+    dependency: "direct main"
+    description:
+      name: carousel_slider
+      sha256: "9c695cc963bf1d04a47bd6021f68befce8970bcd61d24938e1fb0918cf5d9c42"
+      url: "https://pub.dev"
+    source: hosted
+    version: "4.2.1"
   characters:
     dependency: transitive
     description:
@@ -318,6 +326,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.0.3"
+  flutter_remix:
+    dependency: "direct main"
+    description:
+      name: flutter_remix
+      sha256: c098f0a0268b06bf4948080d66ca3410aee11441b40fc761522222a9523e3047
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.0.3"
   flutter_screenutil:
     dependency: "direct main"
     description:
@@ -336,6 +352,14 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+  font_awesome_flutter:
+    dependency: "direct main"
+    description:
+      name: font_awesome_flutter
+      sha256: "275ff26905134bcb59417cf60ad979136f1f8257f2f449914b2c3e05bbb4cd6f"
+      url: "https://pub.dev"
+    source: hosted
+    version: "10.7.0"
   formz:
     dependency: "direct main"
     description:
@@ -464,6 +488,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.2.0"
+  lorem_ipsum:
+    dependency: "direct main"
+    description:
+      name: lorem_ipsum
+      sha256: b018535db8525a45bbcd7a44e151480e2618e2111c5305725e3713ce7c6ba677
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.0.3"
   matcher:
     dependency: transitive
     description:
@@ -632,6 +664,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.2.3"
+  remixicon:
+    dependency: "direct main"
+    description:
+      name: remixicon
+      sha256: bb8e673b4c9109b04ef51d771d08f34f2fa68a95029d71fb3f92449bd9e1d018
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.1.1"
   rxdart:
     dependency: transitive
     description:
@@ -661,6 +701,14 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.99"
+  smooth_page_indicator:
+    dependency: "direct main"
+    description:
+      name: smooth_page_indicator
+      sha256: "725bc638d5e79df0c84658e1291449996943f93bacbc2cec49963dbbab48d8ae"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.1.0"
   source_span:
     dependency: transitive
     description:

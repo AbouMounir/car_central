@@ -51,6 +51,10 @@ class $AssetsImagesGen {
       const AssetGenImage(
           'assets/images/personne-tapant-ordinateur-portable-dans-bureau-sombre-genere-par-ia.jpg');
 
+  /// File path: assets/images/photo_2024-02-19_09-27-48.jpg
+  AssetGenImage get photo20240219092748 =>
+      const AssetGenImage('assets/images/photo_2024-02-19_09-27-48.jpg');
+
   /// File path: assets/images/tesla_logo_icon_181279.png
   AssetGenImage get teslaLogoIcon181279 =>
       const AssetGenImage('assets/images/tesla_logo_icon_181279.png');
@@ -66,6 +70,10 @@ class $AssetsImagesGen {
   /// File path: assets/images/vue-voiture-3d-1.jpg
   AssetGenImage get vueVoiture3d1 =>
       const AssetGenImage('assets/images/vue-voiture-3d-1.jpg');
+
+  /// File path: assets/images/vue-voiture-3d-removebg-preview.png
+  AssetGenImage get vueVoiture3dRemovebgPreview =>
+      const AssetGenImage('assets/images/vue-voiture-3d-removebg-preview.png');
 
   /// File path: assets/images/vue-voiture-3d.jpg
   AssetGenImage get vueVoiture3d =>
@@ -87,10 +95,12 @@ class $AssetsImagesGen {
         mercedesJpg,
         mercedesWebp,
         personneTapantOrdinateurPortableDansBureauSombreGenereParIa,
+        photo20240219092748,
         teslaLogoIcon181279,
         transparentHondaLogoIcon,
         voiture3dFondSimple,
         vueVoiture3d1,
+        vueVoiture3dRemovebgPreview,
         vueVoiture3d,
         webDeveloper
       ];

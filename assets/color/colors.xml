@@ -6,6 +6,13 @@
     <color name="teal">#13688a</color>
     <color name="darkgray">#79797B</color>
     <color name="tomato">#FF6347</color>
-    <color name="linen">#FAF0E6</color>
+    <color name="linen">#FAF9F9</color>
+    <color name="santas-gray">#a1a1a6</color>
+    <color name="background_app">#f8f8f8</color>
+    <color name="pantone">#f7f7f7</color>
+    <color name="medium_light">#a2a2a7</color>
+    <color name="love">#fb2d2d</color>
+    <color name="star">#ffc107</color>
+    <color name="textgray">#bdbdc0</color>
 
 </resources>
